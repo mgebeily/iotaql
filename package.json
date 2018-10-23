@@ -1,0 +1,12 @@
+{
+  "name": "iotaql",
+  "version": "1.0.0",
+  "description": "Query interface for IOTA tangle",
+  "main": "index.js",
+  "author": "Marc Gebeily",
+  "license": "MIT",
+  "dependencies": {
+    "@iota/core": "^1.0.0-beta.5",
+    "mongodb": "^3.1.8"
+  }
+}
